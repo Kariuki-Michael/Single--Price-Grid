@@ -35,8 +35,8 @@ Here are some shots of the results from these challenge.
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-pricing-grid-8Eowj2yRHY)
+- Live Site URL: [Live](https://kmichael017.github.io/Single--Price-Grid/)
 
 ## My process
 
